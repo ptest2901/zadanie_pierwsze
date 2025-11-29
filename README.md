@@ -1,0 +1,1 @@
+To repozytorium zawiera pliki źródłowe dokumentacji Sphinx opisujące proste figury geometryczne w trzech rozdziałach. Znajduję się w nim jedna tabela, jedno zdjęcie oraz krótki tekst wyjaśniający podstawowe informacje o tych figurach.
