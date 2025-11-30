@@ -12,22 +12,41 @@
   plastra miodu przypomina sześciokąty, a planety mają kształty zbliżone
   do kul.
 
-+-----------------------------------+-----------------------------------+
-| **Figura**                        | **Przykład z życia**              |
-+===================================+===================================+
-| **Sześcian**                      | Kostka do gry, pudełko w          |
-|                                   | kształcie sześcianu.              |
-+-----------------------------------+-----------------------------------+
-| **Prostopadłościan**              | Książka, cegła, karton do         |
-|                                   | pakowania.                        |
-+-----------------------------------+-----------------------------------+
-| **Kula**                          | Piłka, globus, bańka mydlana.     |
-+-----------------------------------+-----------------------------------+
-| **Ostrosłup**                     | Piramida egipska, stożek drogowy  |
-|                                   | (jeśli jest ostro zakończony).    |
-+-----------------------------------+-----------------------------------+
-| **Stożek**                        | Rożek do lodów, czapka            |
-|                                   | urodzinowa, stożek drogowy.       |
-+-----------------------------------+-----------------------------------+
-| **Walec**                         | Puszka, rura, bateria, kolumna.   |
-+-----------------------------------+-----------------------------------+
+**Przykłady z życia**
+
+1. **Sześcian**
+
+   1. Kostka do gry
+
+   2. pudełko w kształcie sześcianu
+
+2. **Prostopadłościan**
+
+   1. Książka
+
+   2. Cegła
+
+3. **Kula**
+
+   1. Piłka
+
+   2. Globus
+
+4. **Ostrosłup**
+
+   1. Piramida egipska
+
+   2. Stożek drogowy
+
+5. **Stożek**
+
+   1. Rożek do lodów
+
+   2. czapka urodzinowa
+
+6. **Walec**
+
+   1. Rura
+
+   2. Bateria
+
